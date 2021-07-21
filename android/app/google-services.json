@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850130971658",
+    "project_id": "crime-map-3711d",
+    "storage_bucket": "crime-map-3711d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850130971658:android:561d666c53e09e9bd583f3",
+        "android_client_info": {
+          "package_name": "com.i2io.crime_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850130971658-ctv12ir90968b157nkeeg2enrjp1a20k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm5-BhaU3vT_B6BidQW2SK2hzW2wsnMYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850130971658-ctv12ir90968b157nkeeg2enrjp1a20k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
